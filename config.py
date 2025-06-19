@@ -1,0 +1,4 @@
+# config.py
+BOT_TOKEN = "твой_токен"
+USER_CHAT_ID = 123456789
+CHECK_INTERVAL = 300
